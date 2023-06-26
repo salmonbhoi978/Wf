@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: Cleanup workspace
-        uses: rokibhasansagar/slimhub_actions@main
+        uses: salmonbhoi978/slimhub_actions@main
 
       - name: Set Git Configs & Secrets
         run: |
